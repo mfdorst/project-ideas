@@ -19,3 +19,5 @@
 + Accompli: A task managing app similar to Trello or GitHub Projects
 
 + 2D strategy game with mechanics similar to Into the Breach and Armies of Gielinor
+
++ A Wayland compositor similar to Hyprland, but written in Rust.
