@@ -20,4 +20,6 @@
 
 + 2D strategy game with mechanics similar to Into the Breach and Armies of Gielinor
 
-+ A Wayland compositor similar to Hyprland, but written in Rust.
++ A Wayland compositor similar to Hyprland, but written in Rust
+
++ A web app for instant runoff voting
